@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyA-HNYt7eVp2uKfq3I_6DnrsxgrvOiYt6U",
+  authDomain: "chat3-3683f.firebaseapp.com",
+  projectId: "chat3-3683f",
+  storageBucket: "chat3-3683f.appspot.com",
+  messagingSenderId: "483002821139",
+  appId: "1:483002821139:web:c6e7356e3c5b9ff1a02de6"
+};
